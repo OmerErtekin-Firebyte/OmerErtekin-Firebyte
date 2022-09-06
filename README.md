@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Omer
 - 👀 I’m interested in Game Development
 - 🌱 I’m currently using Unity 3D
-- :department_store: I'm working in Firebyte-Games
+- :department_store: I'm working at Firebyte-Games
 - 📫 You can reach me on https://www.linkedin.com/in/%C3%B6mer-ertekin-3153931a3/
 
 <!---
